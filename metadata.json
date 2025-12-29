@@ -1,0 +1,9 @@
+{
+  "name": "MultiTool Box",
+  "description": "A comprehensive suite of over 100 web-based tools including image converters, SEO utilities, developer helpers, calculators, and more, all in one sleek interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
